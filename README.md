@@ -5,6 +5,6 @@ Mcdonald's reviews are important to improve user experience for making better pr
 - Created star ratings
 - Added sentiment (negative, neutral or positive)
 
-Click [here](https://public.tableau.com/app/profile/shiyun0.0) to view it interactively in Tableau Public.
+Click [here](https://public.tableau.com/app/profile/shiyun0.0/viz/McdonaldsFeedback/Dashboard1) to view it interactively in Tableau Public.
 
 ![Image](https://raw.githubusercontent.com/shiyunx/mcdonald-reviews/refs/heads/main/mcdonald.png)
